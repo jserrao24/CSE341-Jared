@@ -3,3 +3,6 @@ GET http://localhost:3000 HTTP/1.1
 
 ###
 GET http://localhost:3000/awesome HTTP/1.1
+
+###
+get https://cse341-jared.onrender.com/awesome HTTP/1.1
